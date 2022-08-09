@@ -1,0 +1,17 @@
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\bin\Release\net6.0-windows\win-x64\ClipBoardImageExporter.exe
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\bin\Release\net6.0-windows\win-x64\ClipBoardImageExporter.deps.json
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\bin\Release\net6.0-windows\win-x64\ClipBoardImageExporter.runtimeconfig.json
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\bin\Release\net6.0-windows\win-x64\ClipBoardImageExporter.dll
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\bin\Release\net6.0-windows\win-x64\ClipBoardImageExporter.pdb
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ClipBoardImageExporter.csproj.AssemblyReference.cache
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ClipBoardImageExporter.Form1.resources
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ClipBoardImageExporter.csproj.GenerateResource.cache
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ClipBoardImageExporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ClipBoardImageExporter.AssemblyInfoInputs.cache
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ClipBoardImageExporter.AssemblyInfo.cs
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ClipBoardImageExporter.csproj.CoreCompileInputs.cache
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ClipBoardImageExporter.dll
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\refint\ClipBoardImageExporter.dll
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ClipBoardImageExporter.pdb
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ClipBoardImageExporter.genruntimeconfig.cache
+C:\Users\rito\Desktop\programming\ClipBoardImageExporter\ClipBoardImageExporter\obj\Release\net6.0-windows\win-x64\ref\ClipBoardImageExporter.dll
